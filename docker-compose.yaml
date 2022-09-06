@@ -1,5 +1,5 @@
 services:
-  starkalink:
+  stark2alink:
     build: .
     shm_size: 3gb
     ports:
